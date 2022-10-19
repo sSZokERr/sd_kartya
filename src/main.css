@@ -1,0 +1,12 @@
+.inputField{
+    margin-top: 25px;
+    width: 50%
+}
+.placeholderImg{
+    width: 256px;
+    height: 256px;
+}
+.resultsContainer{
+    margin-top: 25px;
+    text-align: center;
+}
